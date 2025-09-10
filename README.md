@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lokitha 👋
 
-<!--
-**lokithasendila/LokithaSendila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Foundation student in AI & Data Science | 💻 Web & Software Developer | 🤖 AI + IoT Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** Python, C#, JavaScript, SQL  
+- **Web:** React.js, WordPress, HTML, CSS  
+- **Data:** MySQL, Pandas, NumPy  
+- **Tools:** Git, Docker, VS Code, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 [Student Management System (C# + SQL)](repo-link)  
+- 🔹 [Hotel Website – Water Pearl](repo-link)  
+- 🔹 [Smart Worker Safety Helmet (IoT + AI)](repo-link)  
+- 🔹 [Weather Forecasting App (Figma Design + Prototype)](repo-link)  
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/lokitha-sendila-1b52b5267/) | Email: lokitharoyal@gmail.com
