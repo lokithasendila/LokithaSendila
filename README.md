@@ -1,6 +1,6 @@
 # Hi, I'm Lokitha 👋
 
-🎓 Foundation student in AI & Data Science | 💻 Web & Software Developer | 🤖 AI + IoT Enthusiast  
+🎓 Student in AI & Data Science | 💻 Web & Software Developer | 🤖 AI + IoT Enthusiast  
 
 ## 🚀 Skills
 - **Languages:** Python, C#, JavaScript, SQL  
