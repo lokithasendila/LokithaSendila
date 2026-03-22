@@ -41,6 +41,9 @@ IoT Systems and Smart Devices
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 
 </p>
 
