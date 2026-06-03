@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lokitha Sendila
+# Hi, I'm Lokitha Sendila
 
 ### AI & Data Science Undergraduate | AI Developer | Data Engineering Enthusiast
 
@@ -12,23 +12,23 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 BSc (Hons) Artificial Intelligence & Data Science Student
+ BSc (Hons) Artificial Intelligence & Data Science Student
 
-🏛️ Informatics Institute of Technology (IIT), Sri Lanka
+ Informatics Institute of Technology (IIT), Sri Lanka
 
-🌍 Affiliated with Robert Gordon University, United Kingdom
+ Affiliated with Robert Gordon University, United Kingdom
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Engineering, and Software Development
+ Passionate about Artificial Intelligence, Machine Learning, Data Engineering, and Software Development
 
-🔭 Currently working on AI-powered systems, Data Migration Platforms, IoT solutions, and Web Applications
+ Currently working on AI-powered systems, Data Migration Platforms, IoT solutions, and Web Applications
 
-🌱 Continuously learning advanced AI technologies, cloud computing, and scalable software architectures
+ Continuously learning advanced AI technologies, cloud computing, and scalable software architectures
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
 * Artificial Intelligence
 * Machine Learning
@@ -43,7 +43,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -60,7 +60,7 @@
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
 </p>
 
 ### Tools & Technologies
@@ -74,21 +74,20 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokithasendila&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokithasendila&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokithasendila&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokithasendila&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=lokithasendila&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokithasendila&theme=tokyo-night" />
@@ -96,31 +95,31 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌾 Smart Agriculture Platform
+###  Smart Agriculture Platform
 
 AI-powered weather forecasting and farming assistance system for paddy farmers using IoT, AI, and weather analytics.
 
-### 📊 Data Migration Monitoring Dashboard
+###  Data Migration Monitoring Dashboard
 
 Real-time dashboard built with React, FastAPI, WebSocket, Docker, and MySQL to monitor enterprise data migration processes.
 
-### ⛑️ Smart Worker Safety Helmet
+###  Smart Worker Safety Helmet
 
 IoT-based industrial safety solution featuring gas detection, fall detection, temperature monitoring, and emergency alerts.
 
-### 💰 Personal Finance Tracker
+###  Personal Finance Tracker
 
 Full-stack application for managing expenses, savings, and financial analytics using modern web technologies.
 
-### 🌐 Business Website Development
+###  Business Website Development
 
 Professional WordPress and React-based websites for businesses and organizations.
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 ✔ Master Machine Learning & Deep Learning
 
@@ -134,27 +133,27 @@ Professional WordPress and React-based websites for businesses and organizations
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-🎓 AI & Data Science Undergraduate
+ AI & Data Science Undergraduate
 
-💻 Full Stack Development Experience
+ Full Stack Development Experience
 
-📊 Experience with Data Migration Projects
+ Experience with Data Migration Projects
 
-⚡ Building Real-World AI & IoT Solutions
+ Building Real-World AI & IoT Solutions
 
-🚀 Continuously Learning Emerging Technologies
+ Continuously Learning Emerging Technologies
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://github.com/lokithasendila">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linkedin.com">
+<a href="[https://www.linkedin.com](https://www.linkedin.com/in/lokitha-sendila-1b52b5267/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
@@ -162,5 +161,5 @@ Professional WordPress and React-based websites for businesses and organizations
 ---
 
 <p align="center">
-  <b>⭐ Transforming Ideas into Intelligent Solutions with AI & Data Science</b>
+  <b> Transforming Ideas into Intelligent Solutions with AI & Data Science</b>
 </p>
