@@ -1,118 +1,166 @@
-<h1 align="center">Hi 👋, I'm Lokitha Sendila</h1>
-<h3 align="center">BSc (Hons) AI & Data Science Student</h3>
+# Hi 👋, I'm Lokitha Sendila
+
+### AI & Data Science Undergraduate | AI Developer | Data Engineering Enthusiast
 
 <p align="center">
-Studying Artificial Intelligence & Data Science at Informatics Institute of Technology (IIT) <br>
-Affiliated with Robert Gordon University <br>
-Passionate about Artificial Intelligence, Data Science, and Web Development
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Developer;Data+Engineering+Enthusiast;Full+Stack+Developer;Building+AI-Powered+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokithasendila&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
-<p align="center">
-AI & Data Science Undergraduate <br>
-Interested in AI Development, Machine Learning, and Data Engineering <br>
-Building projects using Python, React, and modern web technologies <br>
-Currently exploring advanced AI systems and data-driven applications
+🎓 BSc (Hons) Artificial Intelligence & Data Science Student
+
+🏛️ Informatics Institute of Technology (IIT), Sri Lanka
+
+🌍 Affiliated with Robert Gordon University, United Kingdom
+
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Engineering, and Software Development
+
+🔭 Currently working on AI-powered systems, Data Migration Platforms, IoT solutions, and Web Applications
+
+🌱 Continuously learning advanced AI technologies, cloud computing, and scalable software architectures
+
+---
+
+## 🧠 Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Data Engineering
+* Data Analytics
+* Full Stack Development
+* Internet of Things (IoT)
+* Cloud Computing
+* MLOps
+* Computer Vision
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,tailwind" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,arduino" />
 </p>
 
 ---
 
-<h2 align="center">🧠 Currently Learning</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-Machine Learning & AI Development <br>
-Data Engineering & Databases <br>
-React & Full Stack Development <br>
-IoT Systems and Smart Devices
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokithasendila&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokithasendila&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<h3 align="center">Languages</h3>
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-
-</p>
-
-<h3 align="center">Frameworks & Libraries</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css">
-<img src="https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi">
-
-</p>
-
-<h3 align="center">Tools & Technologies</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokithasendila&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lokithasendila&show_icons=true&theme=tokyonight">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokithasendila&theme=tokyo-night" />
 </p>
 
 ---
 
-<h2 align="center">📈 Most Used Languages</h2>
+## 🚀 Featured Projects
 
-<p align="center">
+### 🌾 Smart Agriculture Platform
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokithasendila&layout=compact&theme=tokyonight">
+AI-powered weather forecasting and farming assistance system for paddy farmers using IoT, AI, and weather analytics.
 
-</p>
+### 📊 Data Migration Monitoring Dashboard
+
+Real-time dashboard built with React, FastAPI, WebSocket, Docker, and MySQL to monitor enterprise data migration processes.
+
+### ⛑️ Smart Worker Safety Helmet
+
+IoT-based industrial safety solution featuring gas detection, fall detection, temperature monitoring, and emergency alerts.
+
+### 💰 Personal Finance Tracker
+
+Full-stack application for managing expenses, savings, and financial analytics using modern web technologies.
+
+### 🌐 Business Website Development
+
+Professional WordPress and React-based websites for businesses and organizations.
 
 ---
 
-<h2 align="center">📉 Contribution Graph</h2>
+## 🎯 Current Goals
 
-<p align="center">
+✔ Master Machine Learning & Deep Learning
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokithasendila&theme=tokyo-night">
+✔ Become a Professional AI Engineer
 
-</p>
+✔ Build Production-Ready AI Applications
+
+✔ Learn Data Engineering & MLOps
+
+✔ Contribute to Open Source Projects
 
 ---
 
-<h2 align="center">📂 Featured Projects</h2>
+## 🏆 Achievements
 
-<p align="center">
-🔹 Weather Forecasting System for Paddy Farmers <br>
-🔹 Data Migration Monitoring Dashboard <br>
-🔹 Smart Worker Safety Helmet (IoT Project) <br>
-🔹 Personal Finance Tracker Web App <br>
-🔹 WordPress Business Websites
+🎓 AI & Data Science Undergraduate
+
+💻 Full Stack Development Experience
+
+📊 Experience with Data Migration Projects
+
+⚡ Building Real-World AI & IoT Solutions
+
+🚀 Continuously Learning Emerging Technologies
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/lokithasendila">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Always learning and building the future with AI & Data Science
+  <b>⭐ Transforming Ideas into Intelligent Solutions with AI & Data Science</b>
 </p>
